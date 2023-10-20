@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T04:03:19.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="H1E2bY5mLA-4_QYFmHbT" version="22.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-20T04:04:54.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7MvORsJj0FACsH5tkKR5" version="22.0.5" type="github" pages="2">
   <diagram name="第 1 页" id="AFagJou0Auw5d1LpVBJ_">
     <mxGraphModel dx="1576" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-42" value="站控层" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-35.4" y="150" width="845.4" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-5">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="622.8000000000002" y="320" as="targetPoint" />
           </mxGeometry>
@@ -18,20 +18,20 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-5" value="对时系统" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Standalone.svg;" vertex="1" parent="1">
           <mxGeometry x="600" y="166.5" width="45.6" height="37.2" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-6">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="138.4000000000001" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-6" value="Rilake能量管理系统双机--A" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-6" value="能量管理系统双机--A" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
           <mxGeometry x="103" y="157.8" width="70.8" height="54.6" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-7">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="495" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-8">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="745.4000000000001" y="320" as="targetPoint" />
           </mxGeometry>
@@ -39,12 +39,12 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-8" value="数据库服务器" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
           <mxGeometry x="710" y="157.8" width="70.8" height="54.6" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-9">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="299.4000000000001" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-9" value="Rilake能量管理系统双机--B" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-9" value="能量管理系统双机--B" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
           <mxGeometry x="264" y="157.8" width="70.8" height="54.6" as="geometry" />
         </mxCell>
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -69,19 +69,19 @@
             <mxPoint x="-182" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="163" y="370" as="targetPoint" />
             <mxPoint x="163" y="212.4" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="324" y="370" as="targetPoint" />
             <mxPoint x="324" y="212.4" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="505" y="370" as="targetPoint" />
             <mxPoint x="505" y="203.7" as="sourcePoint" />
@@ -90,19 +90,19 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-7" value="Rilake远动系统" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;" vertex="1" parent="1">
           <mxGeometry x="480" y="155.39999999999998" width="30" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="633" y="370" as="targetPoint" />
             <mxPoint x="633" y="203.7" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="370" as="targetPoint" />
             <mxPoint x="770" y="203.7" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-27">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100.40000000000009" y="370" as="targetPoint" />
           </mxGeometry>
@@ -110,13 +110,13 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-27" value="储能变流器1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60.8" y="460" width="79.2" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="320" as="targetPoint" />
             <mxPoint x="90" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-31">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220.4000000000001" y="370" as="targetPoint" />
           </mxGeometry>
@@ -124,13 +124,13 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-31" value="电池管理系统1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180.8" y="460" width="79.2" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="320" as="targetPoint" />
             <mxPoint x="210" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-34">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="379.6000000000001" y="370" as="targetPoint" />
           </mxGeometry>
@@ -138,13 +138,13 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-34" value="变电设备&lt;br&gt;1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="460" width="79.2" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369.2" y="320" as="targetPoint" />
             <mxPoint x="369.2" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-37">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560.4000000000001" y="370" as="targetPoint" />
           </mxGeometry>
@@ -152,28 +152,25 @@
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-37" value="消防系统&lt;br&gt;1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520.8" y="460" width="79.2" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="320" as="targetPoint" />
             <mxPoint x="550" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-40">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="693" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-40" value="其他现地层设备&lt;br&gt;1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-40" value="电表&lt;br&gt;1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645.6" y="460" width="94.4" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="674.8" y="320" as="targetPoint" />
             <mxPoint x="674.8" y="460" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-45" value="Rilake-EMS&amp;nbsp; 双网双主机架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="241" y="85" width="255" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
