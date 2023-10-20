@@ -1,23 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T03:05:25.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vCmeRBhnI27wDY1_-5MA" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T03:11:29.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="o5StxzqLjtYc3J9bn4_U" version="22.0.5" type="github">
   <diagram name="第 1 页" id="AFagJou0Auw5d1LpVBJ_">
-    <mxGraphModel dx="1411" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="622.8000000000002" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-5" value="对时系统" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Standalone.svg;" vertex="1" parent="1">
           <mxGeometry x="600" y="166.5" width="45.6" height="37.2" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145.4000000000001" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-6" value="能量管理系统双机--A" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="157.8" width="70.8" height="54.6" as="geometry" />
         </mxCell>
-        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-7" value="远动工作站" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;" vertex="1" parent="1">
-          <mxGeometry x="480" y="155.39999999999998" width="30" height="57" as="geometry" />
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745.4000000000001" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-8" value="数据库服务器" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
           <mxGeometry x="710" y="157.8" width="70.8" height="54.6" as="geometry" />
         </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sa-E3i2EDwVJDrLkqsIR-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285.4000000000001" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Sa-E3i2EDwVJDrLkqsIR-9" value="能量管理系统双机--B" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
           <mxGeometry x="250" y="157.8" width="70.8" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="320" as="sourcePoint" />
+            <mxPoint x="810" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-13" value="网络交换机A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sa-E3i2EDwVJDrLkqsIR-11">
+          <mxGeometry x="-0.6562" y="-3" relative="1" as="geometry">
+            <mxPoint x="-189" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="370" as="sourcePoint" />
+            <mxPoint x="810" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-14" value="网络交换机B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sa-E3i2EDwVJDrLkqsIR-12">
+          <mxGeometry x="-0.6757" y="4" relative="1" as="geometry">
+            <mxPoint x="-182" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="370" as="targetPoint" />
+            <mxPoint x="170" y="212.4" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="370" as="targetPoint" />
+            <mxPoint x="310" y="212.4" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="370" as="targetPoint" />
+            <mxPoint x="505" y="203.7" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-7" value="远动工作站" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Industrial_Media_Converter.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="155.39999999999998" width="30" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633" y="370" as="targetPoint" />
+            <mxPoint x="633" y="203.7" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sa-E3i2EDwVJDrLkqsIR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="370" as="targetPoint" />
+            <mxPoint x="770" y="203.7" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
